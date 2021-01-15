@@ -1,2 +1,2 @@
 # cs61b
-assignments of UCB CS61B
+Assignments from UCB CS61B course.
